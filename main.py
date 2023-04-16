@@ -3,6 +3,11 @@ from alpaca_trade_api import REST
 import pandas as pd
 import ta
 import time
+# main.py
+from config import api_key, api_secret
+
+# Your code using the api_key variable
+
 
 # Set up Alpaca API
 api_key
